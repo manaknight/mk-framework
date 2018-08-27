@@ -1,0 +1,7 @@
+dist/bundle.js
+dist/bundle.min.js
+dist/manaknight.js
+dist/manaknight.min.js
+dist/templates.js
+node_modules/
+.DS_Store
